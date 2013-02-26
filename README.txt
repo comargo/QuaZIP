@@ -1,3 +1,5 @@
+Original code fetched from http://quazip.sourceforge.net/
+
 QuaZIP is the C++ wrapper for Gilles Vollant's ZIP/UNZIP package
 (AKA minizip) using Trolltech's Qt library.
 
